@@ -1,0 +1,12 @@
+@use "sass:math";
+
+// Подключение стилей общих элементов проекта
+@import "common";
+
+// Подключение стилей отдельных блоков
+@import "header";
+
+@import "main";
+
+@import "footer";
+
